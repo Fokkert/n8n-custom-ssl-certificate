@@ -25,14 +25,14 @@ This repository provides a Docker Compose configuration that enables Traefik to 
 ```text
 n8n
 └── docker-setup
-├── certs
-│ ├── fullchain.pem
-│ └── privkey.pem
-├── compose.yml
-├── local-files
-└── traefik
-├── dynamic.yml
-└── traefik.yml
+    ├── certs
+    │   ├── fullchain.pem
+    │   └── privkey.pem
+    ├── compose.yml
+    ├── local-files
+    └── traefik
+        ├── dynamic.yml
+        └── traefik.yml
 ```
 
 ## Deployment Instructions
