@@ -22,6 +22,7 @@ This repository provides a Docker Compose configuration that enables Traefik to 
 
 ## Directory Hierarchy
 
+```text
 n8n
 └── docker-setup
 ├── certs
@@ -32,7 +33,7 @@ n8n
 └── traefik
 ├── dynamic.yml
 └── traefik.yml
-
+```
 
 ## Deployment Instructions
 
